@@ -6,7 +6,7 @@
 - It securely creates a wallet, connects to the Netrum server, registers the node on-chain, syncs uptime data, mines NPT tokens, and allows daily token claiming — all from your terminal.
 
 - Ideal for VPS and low-resource devices, this node is designed for fast setup, full transparency, and passive token rewards.
-
+---
 ### Hardware & Network Requirements
 To run the Netrum Lite Node smoothly, make sure your system meets the following minimum requirements:
 
@@ -28,7 +28,7 @@ To run the Netrum Lite Node smoothly, make sure your system meets the following 
 | Upload    | 10 Mbps     |	
 	
 > A stable and fast internet connection is important for uptime sync, mining tasks, and daily reward claims.
-
+---
 ### Install Required Dependencies
 ```
 sudo apt-get update && sudo apt-get upgrade -y
@@ -45,6 +45,7 @@ npm install -g npm@11.5.1
 npm -v
 corepack enable
 ```
+---
 ### Netrum Lite Node – Setup Guide
 - Follow the steps below to install and run the Netrum Lite Node CLI on Ubuntu/Linux:
 
@@ -145,6 +146,7 @@ corepack enable
   netrum-claim
   ```
   `NB`: You can only use the `netrum-claim` command after your node has mined `NPT` every 24 hours.
+---
 ### How to Get `LitenodeHunter` Role
 - Go to the `⁠🤖┃bot-commands` channel in the Discord community.
 - Type in `/register` it would drop down and show you the command for the `Netrum Node`, click once when you see it.
@@ -154,11 +156,12 @@ corepack enable
 
 #### `NB`: Make sure you are in the netrum directory before running any `netrum` commands.
 ```
-cd netrum-lite-node
-## use this to enter the netrum directory
+cd netrum-lite-node # use this to enter the netrum directory
 ```
+---
 ### Troubleshooting
 - If you get the below error while trying to monitor the logs using `netrum-mining-log` follow these instructions.
+  
   <img width="644" height="55" alt="Screenshot 2025-07-27 232603" src="https://github.com/user-attachments/assets/b0f18d80-898f-4a8b-9a9d-4b5a85e1e9f6" />
 
   Do this 👇
