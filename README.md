@@ -1,3 +1,5 @@
+
+
 ### What is Netrum Lite Node CLI?
 - Netrum Lite Node CLI is a lightweight command-line tool that allows anyone to participate in the Netrum decentralized compute network.
 
@@ -132,7 +134,7 @@ corepack enable
   ```
   netrum-mining
   ```
-  `NB:` You can only use the `netrum-claim` command after your node has mined `NHP` every 24 hours.
+  `NB`: You can only use the `netrum-claim` command after your node has mined `NHP` every 24 hours.
   #### Node mining logs
   ```
   netrum-mining-log
@@ -144,10 +146,10 @@ corepack enable
   ```
 ### How to Get `LitenodeHunter` Role
 - Go to the `⁠🤖┃bot-commands` channel in the Discord community.
-- Type in `/register` it would drop down and show you the command for the `Netrum Node`.
-- Paste your `node-id` in the dialog box and hit enter to bind your node to your Discord account.
+- Type in `/register` it would drop down and show you the command for the `Netrum Node`, click once when you see it.
+- Paste your `node-id` in the dialog box that shows and hit enter to bind your node to your Discord account.
   
-`NB:` Your `node-id` looks like this `netrum.lite.deeanalyst.base.eth`
+`NB`: Your `node-id` looks like this `netrum.lite.deeanalyst.base.eth`
 
 #### `NB`: Make sure you are in the netrum directory before running any `netrum` commands.
 ```
