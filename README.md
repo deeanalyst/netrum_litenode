@@ -140,11 +140,11 @@ corepack enable
   netrum-mining-log
   ```
   `Ctrl A + D` to detach from screen.
-  #### NHP Claim
+  #### NPT Claim
   ```
   netrum-claim
   ```
-  `NB`: You can only use the `netrum-claim` command after your node has mined `NHP` every 24 hours.
+  `NB`: You can only use the `netrum-claim` command after your node has mined `NPT` every 24 hours.
 ### How to Get `LitenodeHunter` Role
 - Go to the `⁠🤖┃bot-commands` channel in the Discord community.
 - Type in `/register` it would drop down and show you the command for the `Netrum Node`, click once when you see it.
@@ -157,3 +157,13 @@ corepack enable
 cd netrum-lite-node
 ## use this to enter the netrum directory
 ```
+### Troubleshooting
+- If you get the below error while trying to monitor the logs using `netrum-mining-log` follow these instructions.
+  <img width="644" height="55" alt="Screenshot 2025-07-27 232603" src="https://github.com/user-attachments/assets/b0f18d80-898f-4a8b-9a9d-4b5a85e1e9f6" />
+  Do this 👇
+  ```
+  chmod +x /usr/bin/netrum-mining-log
+  ```
+  then re-run the `Node mining logs` command again.
+
+
