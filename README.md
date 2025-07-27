@@ -47,14 +47,21 @@ corepack enable
 - Follow the steps below to install and run the Netrum Lite Node CLI on Ubuntu/Linux:
 
   #### Clone the Repository
-    ```
-    git clone https://github.com/NetrumLabs/netrum-lite-node.git
-    ```
+  ```
+  git clone https://github.com/NetrumLabs/netrum-lite-node.git
+  ```
   #### Navigate to Project Directory
-    ```
-    cd netrum-lite-node
-    ```
+  ```
+  cd netrum-lite-node
+  ```
   #### Link the CLI Globally
-    ```npm link
-    ```
-  
+  ```
+  npm link
+  ```
+  #### Test the `netrum` CLI (also outputs command list)
+  ```
+  netrum
+  ```
+  > You should see this interface 👇
+  ![Netrum CLI Interface](assetnterfaces/my-image.png)
+
