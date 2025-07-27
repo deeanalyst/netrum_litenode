@@ -84,15 +84,32 @@ corepack enable
   ```
   netrum-new-wallet
   ```
+  After creating your wallet, fund it with $2 Base_ETH and at least 0.001 $Base_ETH Sepolia.
+  Import this wallet into your Metamask or Rabby Wallets, whichever you prefer.
+  > Then visit [Base Names](https://www.base.org/names)
+  	- Connect the wallet you created in previous command.
+  	- Get a Base username. If the site doesn't show the name is available or it doesn't look like it is working, use a `VPN`, that's what worked for me.
+  > Join Discord [Netrum Labs]([https://www.base.org/names](https://discord.gg/uxDUgG9kW8)
+ 
+  > Then visit [Netrum Wait-list]([https://www.base.org/names](https://netrumlabs.com/Waitlist?ref=0xc2d8a67d378c89C59E1EF857d93705390f4A6C07)
+  	- Connect the same wallet you got the Base username on which is also our CLI Wallet
+  	- Complete the available tasks there to claim the `waitlist` role.
   #### Export the wallet keys
-  If you are using a `VPS`, copy to your Local machine `Downloads` folder
+  If you are using a `VPS`, use this to copy the `key.txt` file to your Local machine `Downloads` folder. Paste the command in your `Command Prompt` and enter.
   ```
   scp root@<VPS_IP>:/root/netrum-lite-node/data/wallet/key.txt C:\Users\agoma\Downloads\
   ```
   Replace `<VPS_IP>` with your VPS IP, save the fingerprint and input your `VPS` password when prompted. It would then save to the folder.
   
-  If you are using `WSL`, copy to your Local machine `Downloads` folder
+  If you are using `WSL`, use this to copy the `key.txt` file to your Local machine `Downloads` folder Paste this command while still in `WSL` then enter.
   ```
-  sudo cp /root/netrum-lite-node/data/wallet/key.txt /mnt/c/Users/agoma/Downloads/
+  sudo cp /root/netrum-lite-node/data/wallet/key.txt /mnt/c/Users/xxx/Downloads/
   ```
+  where `xxx` is your Local PC Username where you store your files.
+  #### Export the wallet keys
+  If you are using a `VPS`, use this to copy the `key.txt` file to your Local machine `Downloads` folder. Paste the command in your `Command Prompt` and enter.
+  ```
+  scp root@<VPS_IP>:/root/netrum-lite-node/data/wallet/key.txt C:\Users\agoma\Downloads\
+  ```
+
   
