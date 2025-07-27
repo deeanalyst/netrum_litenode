@@ -54,6 +54,10 @@ corepack enable
   ```
   cd netrum-lite-node
   ```
+  #### Install Netrum Dependencies
+  ```
+  npm install
+  ```
   #### Link the CLI Globally
   ```
   npm link
