@@ -16,7 +16,7 @@ To run the Netrum Lite Node smoothly, make sure your system meets the following 
 | RAM | 4 GB | 6 GB or more |
 | Disk Space | 50 GB SSD | 100 GB SSD |
 
-`SSD storage is highly recommended for faster performance and node stability.`
+> SSD storage is highly recommended for faster performance and node stability.
 
 ### Network Requirements
 
@@ -25,7 +25,7 @@ To run the Netrum Lite Node smoothly, make sure your system meets the following 
 | Download    | 10 Mbps     |
 | Upload    | 10 Mbps     |	
 	
-`A stable and fast internet connection is important for uptime sync, mining tasks, and daily reward claims.`
+> A stable and fast internet connection is important for uptime sync, mining tasks, and daily reward claims.
 
 ### Install Required Dependencies
 ```sudo apt update && sudo apt install -y curl bc jq speedtest-cli nodejs npm```
