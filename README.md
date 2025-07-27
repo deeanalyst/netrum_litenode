@@ -134,7 +134,7 @@ corepack enable
   ```
   netrum-mining
   ```
-  `NB`: You can only use the `netrum-claim` command after your node has mined `NHP` every 24 hours.
+  After you run the `start` command, give it a few minutes to sign the transaction, then you will receive a successful transaction response saying this `✅ TX submitted: https://basescan.org/tx/0x...0000000`
   #### Node mining logs
   ```
   netrum-mining-log
@@ -144,6 +144,7 @@ corepack enable
   ```
   netrum-claim
   ```
+  `NB`: You can only use the `netrum-claim` command after your node has mined `NHP` every 24 hours.
 ### How to Get `LitenodeHunter` Role
 - Go to the `⁠🤖┃bot-commands` channel in the Discord community.
 - Type in `/register` it would drop down and show you the command for the `Netrum Node`, click once when you see it.
