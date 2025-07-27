@@ -71,4 +71,9 @@ corepack enable
   <summary>👉 Click me to see the CLI Interface 👈</summary>
   <img src="https://github.com/deeanalyst/neutrum_litenode/raw/main/Netrum%20CLI%20Interface.png" alt="Netrum CLI Interface" width="300" height="300"/>
   </details>
+
+  #### Copy my `requirements.js` for a smooth system requirements check
+  ```
+  curl -o /root/netrum-lite-node/src/system/system/requirements.js https://raw.githubusercontent.com/deeanalyst/neutrum_litenode/main/requirements.js
+  ```
   
