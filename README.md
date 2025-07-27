@@ -1,4 +1,4 @@
-
+![cover](https://pbs.twimg.com/profile_banners/1692652226068520960/1736263723/1080x360)
 
 ### What is Netrum Lite Node CLI?
 - Netrum Lite Node CLI is a lightweight command-line tool that allows anyone to participate in the Netrum decentralized compute network.
@@ -101,6 +101,8 @@ corepack enable
   > Visit [Netrum Wait-list](https://netrumlabs.com/Waitlist?ref=0xc2d8a67d378c89C59E1EF857d93705390f4A6C07)
   	- Connect the same wallet you got the Base username on which is also your CLI Wallet.
   	- Complete the available tasks there to claim the `waitlist` role.
+  > Complete [Netrum Zealy Tasks](https://zealy.io/cw/netrumai/invite/T_B0D6fs3tTrmKzebOzIz?questId=38b7313c-62a6-44df-80c9-8f92a807e690)
+	- There is an ongoing campaign, 5000 XP to first 100, as at time of this commit update, might have been concluded, confirm.
   #### Export the wallet keys
   If you are using a `VPS`, use this to copy the `key.txt` file to your Local machine `Downloads` folder. Paste the command in your `Command Prompt` and enter.
   ```
