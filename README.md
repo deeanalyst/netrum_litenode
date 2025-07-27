@@ -68,6 +68,6 @@ corepack enable
   ```
   > You should see this interface 👇
   
-  ![Netrum CLI Interface](Netrum%20CLI%20Interface.png)
+  <img src="netrum-cli-interface.png" alt="Netrum CLI Interface" width="200" height="200"/>
 
 
