@@ -114,13 +114,13 @@ corepack enable
   ```
   netrum-node-id
   ```
-  #### Register node on-chain
-  ```
-  netrum-node-register
-  ```
   #### Sign a message with node key
   ```
   netrum-node-sign
+  ```
+  #### Register node on-chain
+  ```
+  netrum-node-register
   ```
   #### Sync blockchain data
   ```
