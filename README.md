@@ -76,4 +76,16 @@ corepack enable
   ```
   curl -o /root/netrum-lite-node/src/system/system/requirements.js https://raw.githubusercontent.com/deeanalyst/netrum_litenode/main/requirements.js
   ```
+  #### System Requirements Check
+  ```
+  netrum-system
+  ```
+  #### Create Wallet
+  ```
+  netrum-new-wallet
+  ```
+  #### Create Wallet
+  ```
+  netrum-new-wallet
+  ```
   
