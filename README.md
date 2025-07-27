@@ -34,11 +34,11 @@ sudo apt update && sudo apt install -y curl bc jq speedtest-cli nodejs npm
 ### Netrum Lite Node – Setup Guide
 - Follow the steps below to install and run the Netrum Lite Node CLI on Ubuntu/Linux:
 
-  ### Clone the Repository
+  #### Clone the Repository
     ```
     git clone https://github.com/NetrumLabs/netrum-lite-node.git
     ```
-  ### Navigate to Project Directory
+  #### Navigate to Project Directory
     ```
     cd netrum-lite-node
     ```
