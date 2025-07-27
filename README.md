@@ -67,5 +67,6 @@ corepack enable
   netrum
   ```
   > You should see this interface 👇
-  ![Netrum CLI Interface](assetnterfaces/my-image.png)
+  ![Netrum CLI Interface](Netrum%20CLI%20Interface.png)
+
 
