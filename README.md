@@ -74,6 +74,6 @@ corepack enable
 
   #### Copy my `requirements.js` for a smooth system requirements check
   ```
-  curl -o /root/netrum-lite-node/src/system/system/requirements.js https://raw.githubusercontent.com/deeanalyst/neutrum_litenode/main/requirements.js
+  curl -o /root/netrum-lite-node/src/system/system/requirements.js https://raw.githubusercontent.com/deeanalyst/netrum_litenode/main/requirements.js
   ```
   
