@@ -160,6 +160,7 @@ cd netrum-lite-node
 ### Troubleshooting
 - If you get the below error while trying to monitor the logs using `netrum-mining-log` follow these instructions.
   <img width="644" height="55" alt="Screenshot 2025-07-27 232603" src="https://github.com/user-attachments/assets/b0f18d80-898f-4a8b-9a9d-4b5a85e1e9f6" />
+
   Do this 👇
   ```
   chmod +x /usr/bin/netrum-mining-log
