@@ -85,12 +85,13 @@ corepack enable
   netrum-new-wallet
   ```
   #### Export the wallet keys
-  ```If you are using a `VPS`, copy to your Local machine `Downloads` folder```
+  If you are using a `VPS`, copy to your Local machine `Downloads` folder
   ```
   scp root@<VPS_IP>:/root/netrum-lite-node/data/wallet/key.txt C:\Users\agoma\Downloads\
   ```
-  ```Replace `<VPS_IP>` with your VPS IP, save the fingerprint and input your `VPS` password when prompted. It would then save to the folder.```
-  ```If you are using `WSL`, copy to your Local machine `Downloads` folder```
+  Replace `<VPS_IP>` with your VPS IP, save the fingerprint and input your `VPS` password when prompted. It would then save to the folder.
+  
+  If you are using `WSL`, copy to your Local machine `Downloads` folder
   ```
   sudo cp /root/netrum-lite-node/data/wallet/key.txt /mnt/c/Users/agoma/Downloads/
   ```
