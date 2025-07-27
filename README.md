@@ -6,6 +6,9 @@
 - It securely creates a wallet, connects to the Netrum server, registers the node on-chain, syncs uptime data, mines NPT tokens, and allows daily token claiming — all from your terminal.
 
 - Ideal for VPS and low-resource devices, this node is designed for fast setup, full transparency, and passive token rewards.
+
+Official [Netrum Labs Github Resource](https://github.com/NetrumLabs/netrum-lite-node)
+
 ---
 ### Hardware & Network Requirements
 To run the Netrum Lite Node smoothly, make sure your system meets the following minimum requirements:
