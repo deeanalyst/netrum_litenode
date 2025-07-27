@@ -52,8 +52,9 @@ corepack enable
   ```
   #### Navigate to Project Directory
   ```
-  cd netrum-lite-node
+  cd netrum-lite-node && screen -S netrum
   ```
+  You can detach the screen by pressing `Ctrl A + D` at any time and reattach using `screen -r netrum`
   #### Install Netrum Dependencies
   ```
   npm install
@@ -90,8 +91,8 @@ corepack enable
   	- Connect the wallet you created in previous command.
   	- Get a Base username. If the site doesn't show the name is available or it doesn't look like it is working, use a `VPN`, that's what worked for me.
   > Join Discord [Netrum Labs](https://discord.gg/uxDUgG9kW8)
-  > Then visit [Netrum Wait-list](https://netrumlabs.com/Waitlist?ref=0xc2d8a67d378c89C59E1EF857d93705390f4A6C07)
-  	- Connect the same wallet you got the Base username on which is also our CLI Wallet
+  > Visit [Netrum Wait-list](https://netrumlabs.com/Waitlist?ref=0xc2d8a67d378c89C59E1EF857d93705390f4A6C07)
+  	- Connect the same wallet you got the Base username on which is also your CLI Wallet.
   	- Complete the available tasks there to claim the `waitlist` role.
   #### Export the wallet keys
   If you are using a `VPS`, use this to copy the `key.txt` file to your Local machine `Downloads` folder. Paste the command in your `Command Prompt` and enter.
@@ -105,10 +106,32 @@ corepack enable
   sudo cp /root/netrum-lite-node/data/wallet/key.txt /mnt/c/Users/xxx/Downloads/
   ```
   where `xxx` is your Local PC Username where you store your files.
-  #### Export the wallet keys
-  If you are using a `VPS`, use this to copy the `key.txt` file to your Local machine `Downloads` folder. Paste the command in your `Command Prompt` and enter.
+  #### Check Basename conflicts
   ```
-  scp root@<VPS_IP>:/root/netrum-lite-node/data/wallet/key.txt C:\Users\agoma\Downloads\
+  netrum-check-basename
   ```
-
-  
+  #### Generate a Node ID
+  ```
+  netrum-node-id
+  ```
+  #### Register node on-chain
+  ```
+  netrum-node-register
+  ```
+  #### Sign a message with node key
+  ```
+  netrum-node-sign
+  ```
+  #### Sync blockchain data
+  ```
+  netrum-sync
+  ```
+  #### Start mining
+  ```
+  netrum-mining
+  ```
+  `NB:` You can only use the `netrum-claim` command after your node has mined `NHP` every 24 hours.
+  #### NHP Claim
+  ```
+  netrum-claim
+  ```
