@@ -123,6 +123,7 @@ corepack enable
   ```
   netrum-node-register
   ```
+  When you complete this step correctly, your `node-id` will be outputted.
   #### Sync blockchain data
   ```
   netrum-sync
@@ -132,7 +133,22 @@ corepack enable
   netrum-mining
   ```
   `NB:` You can only use the `netrum-claim` command after your node has mined `NHP` every 24 hours.
+  #### Node mining logs
+  ```
+  netrum-mining-log
+  ```
+  `Ctrl A + D` to detach from screen.
   #### NHP Claim
   ```
   netrum-claim
   ```
+### How to Get `LitenodeHunter` Role
+- Go to the `⁠🤖┃bot-commands` channel in the Discord community.
+- Type in `/register` it would drop down and show you the command for the `Netrum Node`.
+- Paste your `node-id` in the dialog box and hit enter to bind your node to your Discord account.
+`NB:` Your `node-id` looks like this `netrum.lite.deeanalyst.base.eth`
+
+#### `NB`: Make sure you are in the netrum directory before running any `netrum` commands.
+```
+cd netrum-lite-node
+```
