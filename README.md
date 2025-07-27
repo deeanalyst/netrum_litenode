@@ -89,9 +89,8 @@ corepack enable
   > Then visit [Base Names](https://www.base.org/names)
   	- Connect the wallet you created in previous command.
   	- Get a Base username. If the site doesn't show the name is available or it doesn't look like it is working, use a `VPN`, that's what worked for me.
-  > Join Discord [Netrum Labs]([https://www.base.org/names](https://discord.gg/uxDUgG9kW8)
- 
-  > Then visit [Netrum Wait-list]([https://www.base.org/names](https://netrumlabs.com/Waitlist?ref=0xc2d8a67d378c89C59E1EF857d93705390f4A6C07)
+  > Join Discord [Netrum Labs](https://discord.gg/uxDUgG9kW8)
+  > Then visit [Netrum Wait-list](https://netrumlabs.com/Waitlist?ref=0xc2d8a67d378c89C59E1EF857d93705390f4A6C07)
   	- Connect the same wallet you got the Base username on which is also our CLI Wallet
   	- Complete the available tasks there to claim the `waitlist` role.
   #### Export the wallet keys
