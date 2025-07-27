@@ -146,9 +146,11 @@ corepack enable
 - Go to the `⁠🤖┃bot-commands` channel in the Discord community.
 - Type in `/register` it would drop down and show you the command for the `Netrum Node`.
 - Paste your `node-id` in the dialog box and hit enter to bind your node to your Discord account.
+  
 `NB:` Your `node-id` looks like this `netrum.lite.deeanalyst.base.eth`
 
 #### `NB`: Make sure you are in the netrum directory before running any `netrum` commands.
 ```
 cd netrum-lite-node
+## use this to enter the netrum directory
 ```
