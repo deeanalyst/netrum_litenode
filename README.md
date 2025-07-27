@@ -1,4 +1,4 @@
-![cover](https://pbs.twimg.com/profile_banners/1692652226068520960/1736263723/1080x360)
+![cover](./Netrum.png)
 
 ### What is Netrum Lite Node CLI?
 - Netrum Lite Node CLI is a lightweight command-line tool that allows anyone to participate in the Netrum decentralized compute network.
