@@ -68,7 +68,7 @@ corepack enable
   ```
   
   <details>
-  <summary>You should see this interface 👇</summary>
+  <summary>👉 Click me to see the CLI Interface 👈</summary>
   <img src="https://github.com/deeanalyst/neutrum_litenode/raw/main/Netrum%20CLI%20Interface.png" alt="Netrum CLI Interface" width="200" height="200"/>
   </details>
   
