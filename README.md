@@ -85,7 +85,7 @@ corepack enable
   ```
   netrum-new-wallet
   ```
-  After creating your wallet, fund it with $2 Base_ETH and at least 0.001 $Base_ETH Sepolia.
+  After creating your wallet, fund it with $2 worth of `Base_ETH` and at least 0.001 `$Base_ETH Sepolia`.
   Import this wallet into your Metamask or Rabby Wallets, whichever you prefer.
   > Then visit [Base Names](https://www.base.org/names)
   	- Connect the wallet you created in previous command.
