@@ -29,14 +29,15 @@ To run the Netrum Lite Node smoothly, make sure your system meets the following 
 
 ### Install Required Dependencies
 ```sudo apt update && sudo apt install -y curl bc jq speedtest-cli nodejs npm
-
+```
 ### Netrum Lite Node – Setup Guide
 - Follow the steps below to install and run the Netrum Lite Node CLI on Ubuntu/Linux:
 
   ### Clone the Repository
     ```git clone https://github.com/NetrumLabs/netrum-lite-node.git
-
+    ```
   ### Navigate to Project Directory
     ```cd netrum-lite-node
+    ```
 
   
