@@ -175,4 +175,21 @@ cd netrum-lite-node # use this to enter the netrum directory
   ```
   then re-run the `Node mining logs` command again.
 
+### Update your node
+Run this to update your miner
+```
+	git stash
+	git pull
+```
+Give permission to the CLI v2 files then rerun the start command and logs command after that.
+```
+	sudo npm link --force
+```
+
+`NB`: If you ever run into a permission denied error, use this command below
+```
+chmod +x /usr/bin/
+```
+For example: 
+Error - Permission denied
 
