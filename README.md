@@ -174,7 +174,7 @@ cd netrum-lite-node # use this to enter the netrum directory
   chmod +x /usr/bin/netrum-mining-log
   ```
   then re-run the `Node mining logs` command again.
-
+---
 ### Update your node
 Run this to update your miner
 ```
@@ -192,7 +192,7 @@ chmod +x /usr/bin/
 ```
 For example: 
 >root@vmi2689380:~# netrum-mining-log
->root@vmi2689380:~# Error - Permission denied
+ root@vmi2689380:~# Error - Permission denied
 
 Per the command that brings this error, just do this with the `chmod` command, so for like my example...
 ```
