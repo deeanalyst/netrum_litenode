@@ -9,6 +9,7 @@
 
 Official [Netrum Labs Github Resource](https://github.com/NetrumLabs/netrum-lite-node)
 
+###> You can run this node for fun, yes incentivized but has some red flags so only spend what you are willing to lose. Goodluck
 ---
 ### Hardware & Network Requirements
 To run the Netrum Lite Node smoothly, make sure your system meets the following minimum requirements:
@@ -192,7 +193,7 @@ chmod +x /usr/bin/
 ```
 For example: 
 > `root@vmi2689380:~# netrum-mining-log`  
-> `Error - Permission denied`
+> `root@vmi2689380:~# /usr/bin/ Error - Permission denied`
 
 Per the command that brings this error, just do this with the `chmod` command, so for like my example...
 ```
