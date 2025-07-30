@@ -191,8 +191,8 @@ Give permission to the CLI v2 files then rerun the start command and logs comman
 chmod +x /usr/bin/
 ```
 For example: 
->root@vmi2689380:~# netrum-mining-log
- root@vmi2689380:~# Error - Permission denied
+> `root@vmi2689380:~# netrum-mining-log`  
+> `Error - Permission denied`
 
 Per the command that brings this error, just do this with the `chmod` command, so for like my example...
 ```
