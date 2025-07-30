@@ -9,7 +9,7 @@
 
 Official [Netrum Labs Github Resource](https://github.com/NetrumLabs/netrum-lite-node)
 
-###> You can run this node for fun, yes incentivized but has some red flags so only spend what you are willing to lose. Goodluck
+> #### You can run this node for fun, yes incentivized but has some red flags so only spend what you are willing to lose. Goodluck
 ---
 ### Hardware & Network Requirements
 To run the Netrum Lite Node smoothly, make sure your system meets the following minimum requirements:
