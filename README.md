@@ -34,7 +34,7 @@ To run the Netrum Lite Node smoothly, make sure your system meets the following 
 > A stable and fast internet connection is important for uptime sync, mining tasks, and daily reward claims.
 ---
 ### Install Required Dependencies
-```
+```bash
 sudo apt-get update && sudo apt-get upgrade -y
 sudo apt install curl ufw iptables build-essential git wget lz4 jq make gcc nano automake autoconf tmux htop nvme-cli libgbm1 pkg-config libssl-dev libleveldb-dev tar clang bsdmainutils ncdu unzip libleveldb-dev  -y
 
@@ -45,7 +45,7 @@ sudo apt install -y nodejs
 node -v
 npm install -g yarn
 yarn -v
-npm install -g npm@11.5.1
+npm install -g npm@11.5.2
 npm -v
 corepack enable
 ```
